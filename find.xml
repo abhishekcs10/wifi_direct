@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'EDApp_1'" />
+    <option name="defaultScopeName" value="Project 'EDApp_1'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'EDApp_1'" />
+  </component>
+</application>
